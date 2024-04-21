@@ -76,7 +76,7 @@ docutils==0.19
     #   sphinx-tabs
 email-validator==2.1.1
     # via wtforms
-exceptiongroup==1.2.0
+exceptiongroup==1.2.1
     # via pytest
 filelock==3.13.4
     # via
@@ -143,7 +143,7 @@ imagesize==1.4.1
     # via sphinx
 iniconfig==2.0.0
     # via pytest
-itsdangerous==2.1.2
+itsdangerous==2.2.0
     # via
     #   flask
     #   flask-wtf
@@ -202,7 +202,7 @@ packaging==24.0
     #   pytest
     #   sphinx
     #   tox
-pallets-sphinx-themes==2.1.1
+pallets-sphinx-themes==2.1.2
     # via -r requirements/docs.in
 pathspec==0.12.1
     # via black
@@ -213,7 +213,7 @@ platformdirs==4.2.0
     #   black
     #   tox
     #   virtualenv
-pluggy==1.4.0
+pluggy==1.5.0
     # via
     #   pytest
     #   tox
@@ -376,7 +376,7 @@ urllib3==1.26.18
     #   -r requirements/app.in
     #   requests
     #   sentry-sdk
-virtualenv==20.25.1
+virtualenv==20.25.3
     # via tox
 werkzeug==3.0.2
     # via flask

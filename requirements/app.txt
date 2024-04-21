@@ -97,7 +97,7 @@ idna==3.7
     # via
     #   email-validator
     #   requests
-itsdangerous==2.1.2
+itsdangerous==2.2.0
     # via
     #   flask
     #   flask-wtf

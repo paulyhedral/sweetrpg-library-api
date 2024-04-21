@@ -112,7 +112,7 @@ idna==3.7
     #   requests
 imagesize==1.4.1
     # via sphinx
-itsdangerous==2.1.2
+itsdangerous==2.2.0
     # via
     #   flask
     #   flask-wtf
@@ -164,7 +164,7 @@ packaging==24.0
     #   marshmallow
     #   pallets-sphinx-themes
     #   sphinx
-pallets-sphinx-themes==2.1.1
+pallets-sphinx-themes==2.1.2
     # via -r requirements/docs.in
 prometheus-client==0.20.0
     # via prometheus-flask-exporter
