@@ -24,7 +24,7 @@ backoff==1.10.0
     # via analytics-python
 black==23.12.1
     # via -r requirements/dev.in
-blinker==1.8.1
+blinker==1.8.2
     # via
     #   -r requirements/app.in
     #   -r requirements/tests.in
@@ -230,7 +230,7 @@ pygments==2.18.0
     #   rich
     #   sphinx
     #   sphinx-tabs
-pymongo[srv]==4.7.1
+pymongo[srv]==4.7.2
     # via
     #   -r requirements/app.in
     #   mongoengine
