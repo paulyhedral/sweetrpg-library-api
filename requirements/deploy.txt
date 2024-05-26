@@ -169,7 +169,7 @@ pyyaml==6.0.1
     #   flask-swagger
 redis==4.6.0
     # via -r requirements/app.in
-requests==2.31.0
+requests==2.32.2
     # via
     #   -r requirements/app.in
     #   analytics-python
@@ -210,7 +210,7 @@ sweetrpg-model-core==0.0.154
     #   sweetrpg-library-objects
 sweetrpg-web-core==0.0.583
     # via -r requirements/app.in
-typing-extensions==4.11.0
+typing-extensions==4.12.0
     # via
     #   alembic
     #   sqlalchemy
