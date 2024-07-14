@@ -144,7 +144,7 @@ packaging==24.1
     # via marshmallow
 prometheus-client==0.20.0
     # via prometheus-flask-exporter
-prometheus-flask-exporter==0.23.0
+prometheus-flask-exporter==0.23.1
     # via -r requirements/app.in
 pymongo[srv]==4.8.0
     # via
