@@ -27,7 +27,7 @@ cachelib==0.9.0
     #   flask-caching
     #   flask-oauthlib
     #   flask-session
-cachetools==5.3.3
+cachetools==5.4.0
     # via tox
 certifi==2024.7.4
     # via
@@ -114,7 +114,7 @@ flask-wtf==1.2.1
     # via flask-mongoengine
 greenlet==3.0.3
     # via sqlalchemy
-hiredis==2.3.2
+hiredis==2.4.0
     # via -r requirements/app.in
 idna==3.7
     # via

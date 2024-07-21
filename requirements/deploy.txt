@@ -91,7 +91,7 @@ flask-wtf==1.2.1
     # via flask-mongoengine
 greenlet==3.0.3
     # via sqlalchemy
-hiredis==2.3.2
+hiredis==2.4.0
     # via
     #   -r requirements/app.in
     #   -r requirements/deploy.in
