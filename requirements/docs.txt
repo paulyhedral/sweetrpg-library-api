@@ -16,7 +16,7 @@ annotated-types==0.7.0
     # via pydantic
 async-timeout==4.0.3
     # via redis
-babel==2.15.0
+babel==2.16.0
     # via sphinx
 backoff==1.10.0
     # via analytics-python
@@ -196,7 +196,7 @@ python-editor==1.0.4
     # via -r requirements/app.in
 pytz==2024.1
     # via flask-restful
-pyyaml==6.0.1
+pyyaml==6.0.2
     # via
     #   -r requirements/app.in
     #   flask-swagger
@@ -255,7 +255,7 @@ sphinxcontrib-qthelp==2.0.0
     # via sphinx
 sphinxcontrib-serializinghtml==2.0.0
     # via sphinx
-sqlalchemy==2.0.31
+sqlalchemy==2.0.32
     # via
     #   alembic
     #   flask-rest-jsonapi
