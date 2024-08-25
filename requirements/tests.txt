@@ -116,7 +116,7 @@ greenlet==3.0.3
     # via sqlalchemy
 hiredis==2.4.0
     # via -r requirements/app.in
-idna==3.7
+idna==3.8
     # via
     #   email-validator
     #   requests
@@ -139,7 +139,7 @@ markupsafe==2.1.5
     #   sentry-sdk
     #   werkzeug
     #   wtforms
-marshmallow==3.21.3
+marshmallow==3.22.0
     # via
     #   flask-rest-jsonapi
     #   marshmallow-jsonapi
@@ -281,7 +281,7 @@ urllib3==1.26.19
     #   sentry-sdk
 virtualenv==20.26.3
     # via tox
-werkzeug==3.0.3
+werkzeug==3.0.4
     # via flask
 wtforms[email]==3.1.2
     # via
