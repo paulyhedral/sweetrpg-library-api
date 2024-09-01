@@ -39,7 +39,7 @@ cachelib==0.9.0
     #   flask-session
 cachetools==5.5.0
     # via tox
-certifi==2024.7.4
+certifi==2024.8.30
     # via
     #   requests
     #   sentry-sdk
@@ -176,7 +176,7 @@ marshmallow-jsonapi==0.24.0
     #   sweetrpg-library-objects
 mdurl==0.1.2
     # via markdown-it-py
-mongoengine==0.28.2
+mongoengine==0.29.0
     # via
     #   flask-mongoengine
     #   sweetrpg-api-core
@@ -280,7 +280,7 @@ requests==2.32.3
     #   sphinx
 requests-oauthlib==1.1.0
     # via flask-oauthlib
-rich==13.7.1
+rich==13.8.0
     # via typer
 rstcheck==6.2.4
     # via -r requirements/docs.in
@@ -370,7 +370,7 @@ typing-extensions==4.12.2
     #   pydantic-core
     #   sqlalchemy
     #   typer
-urllib3==1.26.19
+urllib3==1.26.20
     # via
     #   -r requirements/app.in
     #   requests
