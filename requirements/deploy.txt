@@ -186,7 +186,7 @@ six==1.16.0
     #   flask-rest-jsonapi
     #   flask-restful
     #   python-dateutil
-sqlalchemy==2.0.32
+sqlalchemy==2.0.34
     # via
     #   alembic
     #   flask-rest-jsonapi
