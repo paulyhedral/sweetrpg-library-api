@@ -89,11 +89,11 @@ flask-views==0.2.1
     # via -r requirements/app.in
 flask-wtf==1.2.1
     # via flask-mongoengine
-greenlet==3.0.3
+greenlet==3.1.0
     # via sqlalchemy
 hiredis==2.4.0
     # via -r requirements/app.in
-idna==3.8
+idna==3.9
     # via
     #   email-validator
     #   requests
@@ -159,7 +159,7 @@ python-dotenv==1.0.1
     # via -r requirements/app.in
 python-editor==1.0.4
     # via -r requirements/app.in
-pytz==2024.1
+pytz==2024.2
     # via flask-restful
 pyyaml==6.0.2
     # via
