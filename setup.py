@@ -18,7 +18,7 @@ setup(
         "Flask-Session~=0.5",
         "Flask-Swagger~=0.2",
         "Flask-Views~=0.2",
-        "Flask~=2.0",
+        "Flask~=3.0",
         "hiredis~=2.2",
         "kanka~=0.1",
         "prometheus-flask-exporter~=0.22",
