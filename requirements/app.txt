@@ -32,7 +32,7 @@ charset-normalizer==3.3.2
     # via requests
 click==8.1.7
     # via flask
-dnspython==2.6.1
+dnspython==2.7.0
     # via
     #   -r requirements/app.in
     #   email-validator
@@ -144,7 +144,7 @@ prometheus-client==0.21.0
     # via prometheus-flask-exporter
 prometheus-flask-exporter==0.23.1
     # via -r requirements/app.in
-pymongo[srv]==4.9.1
+pymongo[srv]==4.10.1
     # via
     #   -r requirements/app.in
     #   mongoengine

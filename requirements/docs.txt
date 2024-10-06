@@ -40,7 +40,7 @@ click==8.1.7
     # via
     #   flask
     #   typer
-dnspython==2.6.1
+dnspython==2.7.0
     # via
     #   -r requirements/app.in
     #   email-validator
@@ -179,7 +179,7 @@ pygments==2.18.0
     #   rich
     #   sphinx
     #   sphinx-tabs
-pymongo[srv]==4.9.1
+pymongo[srv]==4.10.1
     # via
     #   -r requirements/app.in
     #   mongoengine
@@ -211,7 +211,7 @@ requests==2.32.3
     #   sphinx
 requests-oauthlib==1.1.0
     # via flask-oauthlib
-rich==13.8.1
+rich==13.9.2
     # via typer
 rstcheck==6.2.4
     # via -r requirements/docs.in
@@ -286,6 +286,7 @@ typing-extensions==4.12.2
     #   alembic
     #   pydantic
     #   pydantic-core
+    #   rich
     #   sqlalchemy
     #   typer
 urllib3==1.26.20

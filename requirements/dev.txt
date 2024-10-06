@@ -63,7 +63,7 @@ coverage-badge==1.1.2
     # via -r requirements/tests.in
 distlib==0.3.8
     # via virtualenv
-dnspython==2.6.1
+dnspython==2.7.0
     # via
     #   -r requirements/app.in
     #   email-validator
@@ -230,7 +230,7 @@ pygments==2.18.0
     #   rich
     #   sphinx
     #   sphinx-tabs
-pymongo[srv]==4.9.1
+pymongo[srv]==4.10.1
     # via
     #   -r requirements/app.in
     #   mongoengine
@@ -280,7 +280,7 @@ requests==2.32.3
     #   sphinx
 requests-oauthlib==1.1.0
     # via flask-oauthlib
-rich==13.8.1
+rich==13.9.2
     # via typer
 rstcheck==6.2.4
     # via -r requirements/docs.in
@@ -348,7 +348,7 @@ sweetrpg-model-core==0.0.154
     #   sweetrpg-library-objects
 sweetrpg-web-core==0.0.681
     # via -r requirements/app.in
-tomli==2.0.1
+tomli==2.0.2
     # via
     #   black
     #   build
@@ -357,7 +357,7 @@ tomli==2.0.1
     #   pyproject-api
     #   pytest
     #   tox
-tox==4.20.0
+tox==4.21.2
     # via -r requirements/tests.in
 typer==0.12.5
     # via rstcheck
@@ -368,7 +368,9 @@ typing-extensions==4.12.2
     #   black
     #   pydantic
     #   pydantic-core
+    #   rich
     #   sqlalchemy
+    #   tox
     #   typer
 urllib3==1.26.20
     # via
