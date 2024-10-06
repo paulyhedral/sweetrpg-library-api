@@ -22,7 +22,7 @@ setup(
         "hiredis~=3.0",
         "kanka~=0.1",
         "prometheus-flask-exporter~=0.22",
-        "PyMongo~=4.0",
+        "PyMongo[srv]~=3.0",
         "python-dateutil~=2.0",
         "python-dotenv~=1.0",
         "python-editor~=1.0",
