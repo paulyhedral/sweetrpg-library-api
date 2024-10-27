@@ -97,7 +97,7 @@ flask-swagger==0.2.14
     # via -r requirements/app.in
 flask-views==0.2.1
     # via -r requirements/app.in
-flask-wtf==1.2.1
+flask-wtf==1.2.2
     # via flask-mongoengine
 greenlet==3.1.1
     # via sqlalchemy
@@ -119,7 +119,7 @@ jinja2==3.1.4
     #   sphinx
 kanka==0.1.2
     # via -r requirements/app.in
-mako==1.3.5
+mako==1.3.6
     # via alembic
 markdown-it-py==3.0.0
     # via rich
@@ -161,7 +161,7 @@ packaging==24.1
     #   marshmallow
     #   pallets-sphinx-themes
     #   sphinx
-pallets-sphinx-themes==2.2.0
+pallets-sphinx-themes==2.3.0
     # via -r requirements/docs.in
 prometheus-client==0.21.0
     # via prometheus-flask-exporter
@@ -206,7 +206,7 @@ requests==2.32.3
     #   sphinx
 requests-oauthlib==1.1.0
     # via flask-oauthlib
-rich==13.9.2
+rich==13.9.3
     # via typer
 rstcheck==6.2.4
     # via -r requirements/docs.in
@@ -261,7 +261,7 @@ sweetrpg-api-core==0.0.340
     # via
     #   -r requirements/app.in
     #   sweetrpg-library-objects
-sweetrpg-db==0.0.144
+sweetrpg-db==0.0.145
     # via
     #   -r requirements/app.in
     #   sweetrpg-api-core
@@ -288,9 +288,9 @@ urllib3==2.2.3
     #   -r requirements/app.in
     #   requests
     #   sentry-sdk
-werkzeug==3.0.4
+werkzeug==3.0.6
     # via flask
-wtforms[email]==3.2.0
+wtforms[email]==3.2.1
     # via
     #   flask-mongoengine
     #   flask-wtf
