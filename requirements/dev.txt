@@ -6,7 +6,7 @@
 #
 alabaster==1.0.0
     # via sphinx
-alembic==1.13.3
+alembic==1.14.0
     # via flask-migrate
 analytics-python==1.4.post1
     # via -r requirements/app.in
@@ -361,7 +361,7 @@ urllib3==2.2.3
     #   sentry-sdk
 virtualenv==20.27.1
     # via tox
-werkzeug==3.1.1
+werkzeug==3.1.2
     # via flask
 wheel==0.44.0
     # via pip-tools
