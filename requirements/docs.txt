@@ -266,7 +266,7 @@ sweetrpg-db==0.0.145
     #   -r /home/runner/work/library-api/library-api/requirements/app.in
     #   sweetrpg-api-core
     #   sweetrpg-library-objects
-sweetrpg-library-objects==0.0.449
+sweetrpg-library-objects==0.0.450
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
 sweetrpg-model-core==0.0.155
     # via
