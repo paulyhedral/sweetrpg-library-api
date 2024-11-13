@@ -51,7 +51,7 @@ docutils==0.21.2
     #   sphinx-tabs
 email-validator==2.2.0
     # via wtforms
-flask==3.0.3
+flask==3.1.0
     # via
     #   -r /home/runner/work/library-api/library-api/requirements/app.in
     #   flask-caching
