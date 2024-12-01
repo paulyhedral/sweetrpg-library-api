@@ -167,7 +167,7 @@ prometheus-client==0.21.0
     # via prometheus-flask-exporter
 prometheus-flask-exporter==0.23.1
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
-pydantic==2.10.1
+pydantic==2.10.2
     # via rstcheck-core
 pydantic-core==2.27.1
     # via pydantic
@@ -274,7 +274,7 @@ sweetrpg-model-core==0.0.155
     #   sweetrpg-api-core
     #   sweetrpg-db
     #   sweetrpg-library-objects
-typer==0.13.1
+typer==0.14.0
     # via rstcheck
 typing-extensions==4.12.2
     # via
