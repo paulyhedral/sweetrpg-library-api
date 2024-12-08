@@ -39,7 +39,7 @@ click==8.1.7
     # via flask
 colorama==0.4.6
     # via tox
-coverage[toml]==7.6.8
+coverage[toml]==7.6.9
     # via
     #   coverage-badge
     #   pytest-cov
@@ -109,7 +109,7 @@ flask-wtf==1.2.2
     # via flask-mongoengine
 greenlet==3.1.1
     # via sqlalchemy
-hiredis==3.0.0
+hiredis==3.1.0
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
 idna==3.10
     # via
@@ -125,7 +125,7 @@ jinja2==3.1.4
     # via flask
 kanka==0.1.2
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
-mako==1.3.6
+mako==1.3.8
     # via alembic
 markupsafe==3.0.2
     # via
@@ -172,7 +172,7 @@ pluggy==1.5.0
     # via
     #   pytest
     #   tox
-prometheus-client==0.21.0
+prometheus-client==0.21.1
     # via prometheus-flask-exporter
 prometheus-flask-exporter==0.23.1
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
@@ -221,9 +221,9 @@ requests==2.32.3
     #   requests-oauthlib
 requests-oauthlib==1.1.0
     # via flask-oauthlib
-sentry-sdk[flask]==2.19.0
+sentry-sdk[flask]==2.19.2
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
-six==1.16.0
+six==1.17.0
     # via
     #   analytics-python
     #   flask-rest-jsonapi
