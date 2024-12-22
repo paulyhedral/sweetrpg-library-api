@@ -45,7 +45,7 @@ chardet==5.2.0
     # via tox
 charset-normalizer==3.4.0
     # via requests
-click==8.1.7
+click==8.1.8
     # via
     #   black
     #   flask
@@ -142,7 +142,7 @@ itsdangerous==2.2.0
     # via
     #   flask
     #   flask-wtf
-jinja2==3.1.4
+jinja2==3.1.5
     # via
     #   flask
     #   sphinx
@@ -159,7 +159,7 @@ markupsafe==3.0.2
     #   sentry-sdk
     #   werkzeug
     #   wtforms
-marshmallow==3.23.1
+marshmallow==3.23.2
     # via
     #   flask-rest-jsonapi
     #   marshmallow-jsonapi
@@ -216,9 +216,9 @@ prometheus-client==0.21.1
     # via prometheus-flask-exporter
 prometheus-flask-exporter==0.23.1
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
-pydantic==2.10.3
+pydantic==2.10.4
     # via rstcheck-core
-pydantic-core==2.27.1
+pydantic-core==2.27.2
     # via pydantic
 pygments==2.18.0
     # via
