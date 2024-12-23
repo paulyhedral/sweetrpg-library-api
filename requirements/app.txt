@@ -204,7 +204,7 @@ typing-extensions==4.12.2
     # via
     #   alembic
     #   sqlalchemy
-urllib3==2.2.3
+urllib3==2.3.0
     # via
     #   -r requirements/app.in
     #   requests
