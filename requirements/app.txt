@@ -111,7 +111,7 @@ markupsafe==3.0.2
     #   sentry-sdk
     #   werkzeug
     #   wtforms
-marshmallow==3.23.2
+marshmallow==3.23.3
     # via
     #   flask-rest-jsonapi
     #   marshmallow-jsonapi
