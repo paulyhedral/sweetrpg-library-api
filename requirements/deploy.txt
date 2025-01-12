@@ -8,7 +8,7 @@ alembic==1.14.0
     # via flask-migrate
 analytics-python==1.4.post1
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
-aniso8601==9.0.1
+aniso8601==10.0.0
     # via flask-restful
 backoff==1.10.0
     # via analytics-python
@@ -64,7 +64,7 @@ flask-cors==5.0.0
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
 flask-dotenv==0.1.2
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
-flask-migrate==4.0.7
+flask-migrate==4.1.0
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
 flask-mongoengine==1.0.0
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
@@ -113,7 +113,7 @@ markupsafe==3.0.2
     #   sentry-sdk
     #   werkzeug
     #   wtforms
-marshmallow==3.23.3
+marshmallow==3.25.1
     # via
     #   flask-rest-jsonapi
     #   marshmallow-jsonapi
@@ -180,7 +180,7 @@ six==1.17.0
     #   flask-rest-jsonapi
     #   flask-restful
     #   python-dateutil
-sqlalchemy==2.0.36
+sqlalchemy==2.0.37
     # via
     #   alembic
     #   flask-rest-jsonapi
