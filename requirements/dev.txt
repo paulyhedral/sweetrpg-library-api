@@ -6,7 +6,7 @@
 #
 alabaster==1.0.0
     # via sphinx
-alembic==1.14.0
+alembic==1.14.1
     # via flask-migrate
 analytics-python==1.4.post1
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
