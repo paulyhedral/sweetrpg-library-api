@@ -35,7 +35,7 @@ cachelib==0.9.0
     #   flask-caching
     #   flask-oauthlib
     #   flask-session
-cachetools==5.5.0
+cachetools==5.5.1
     # via tox
 certifi==2024.12.14
     # via
@@ -74,7 +74,7 @@ docutils==0.21.2
     #   sphinx-tabs
 email-validator==2.2.0
     # via wtforms
-filelock==3.16.1
+filelock==3.17.0
     # via
     #   tox
     #   virtualenv
@@ -159,7 +159,7 @@ markupsafe==3.0.2
     #   sentry-sdk
     #   werkzeug
     #   wtforms
-marshmallow==3.25.1
+marshmallow==3.26.0
     # via
     #   flask-rest-jsonapi
     #   marshmallow-jsonapi
@@ -216,7 +216,7 @@ prometheus-client==0.21.1
     # via prometheus-flask-exporter
 prometheus-flask-exporter==0.23.1
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
-pydantic==2.10.5
+pydantic==2.10.6
     # via rstcheck-core
 pydantic-core==2.27.2
     # via pydantic
@@ -232,7 +232,7 @@ pymongo[srv]==3.13.0
     #   pymongo
     #   sweetrpg-db
     #   sweetrpg-model-core
-pyproject-api==1.8.0
+pyproject-api==1.9.0
     # via tox
 pyproject-hooks==1.2.0
     # via
@@ -343,7 +343,7 @@ sweetrpg-model-core==0.0.155
     #   sweetrpg-api-core
     #   sweetrpg-db
     #   sweetrpg-library-objects
-tox==4.23.2
+tox==4.24.1
     # via -r /home/runner/work/library-api/library-api/requirements/tests.in
 typer==0.15.1
     # via rstcheck

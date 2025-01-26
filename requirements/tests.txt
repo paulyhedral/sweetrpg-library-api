@@ -25,7 +25,7 @@ cachelib==0.9.0
     #   flask-caching
     #   flask-oauthlib
     #   flask-session
-cachetools==5.5.0
+cachetools==5.5.1
     # via tox
 certifi==2024.12.14
     # via
@@ -55,7 +55,7 @@ dnspython==2.7.0
     #   sweetrpg-db
 email-validator==2.2.0
     # via wtforms
-filelock==3.16.1
+filelock==3.17.0
     # via
     #   tox
     #   virtualenv
@@ -134,7 +134,7 @@ markupsafe==3.0.2
     #   sentry-sdk
     #   werkzeug
     #   wtforms
-marshmallow==3.25.1
+marshmallow==3.26.0
     # via
     #   flask-rest-jsonapi
     #   marshmallow-jsonapi
@@ -183,7 +183,7 @@ pymongo[srv]==3.13.0
     #   pymongo
     #   sweetrpg-db
     #   sweetrpg-model-core
-pyproject-api==1.8.0
+pyproject-api==1.9.0
     # via tox
 pytest==7.4.4
     # via
@@ -251,7 +251,7 @@ sweetrpg-model-core==0.0.155
     #   sweetrpg-api-core
     #   sweetrpg-db
     #   sweetrpg-library-objects
-tox==4.23.2
+tox==4.24.1
     # via -r requirements/tests.in
 typing-extensions==4.12.2
     # via
