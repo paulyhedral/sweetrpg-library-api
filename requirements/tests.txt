@@ -27,7 +27,7 @@ cachelib==0.9.0
     #   flask-session
 cachetools==5.5.1
     # via tox
-certifi==2024.12.14
+certifi==2025.1.31
     # via
     #   requests
     #   sentry-sdk
@@ -207,7 +207,7 @@ python-dotenv==1.0.1
     #   -r requirements/tests.in
 python-editor==1.0.4
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
-pytz==2024.2
+pytz==2025.1
     # via flask-restful
 pyyaml==6.0.2
     # via
