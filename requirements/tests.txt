@@ -20,7 +20,7 @@ blinker==1.9.0
     #   -r requirements/tests.in
     #   flask
     #   sentry-sdk
-cachelib==0.9.0
+cachelib==0.13.0
     # via
     #   flask-caching
     #   flask-oauthlib
@@ -79,7 +79,7 @@ flask==3.1.0
     #   sentry-sdk
     #   sweetrpg-api-core
     #   sweetrpg-library-objects
-flask-caching==2.3.0
+flask-caching==2.3.1
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
 flask-cors==5.0.0
     # via -r /home/runner/work/library-api/library-api/requirements/app.in
